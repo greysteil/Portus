@@ -99,7 +99,7 @@ group :development, :test do
 end
 
 group :test do
-  gem "capybara", "~> 2.14.3"
+  gem "capybara", "~> 3.10.0"
   gem "capybara-screenshot", "~> 1.0.0"
   gem "chromedriver-helper"
   gem "codeclimate-test-reporter", require: false

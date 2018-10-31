@@ -51,7 +51,7 @@ gem "cconfig", "~> 1.2.0"
 # Pinning some versions
 gem "i18n", "= 0.8.0"
 gem "ice_nine", "~> 0.11.2"
-gem "minitest", "= 5.10.1"
+gem "minitest", "5.11.3"
 gem "multi_json", "~> 1.12.1"
 gem "rails-dom-testing", "~> 1.0.8"
 gem "sprockets", "= 3.7.2"

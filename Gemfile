@@ -21,7 +21,7 @@ gem "omniauth-google-oauth2"
 gem "omniauth-openid"
 gem "public_activity"
 gem "pundit"
-gem "rails", "~> 4.2.10"
+gem "rails", "~> 4.2.11"
 gem "rails_stdout_logging", "~> 0.0.5", group: %i[development staging production]
 gem "redcarpet", "~> 3.4.0"
 gem "sass", "~> 3.4.23"
